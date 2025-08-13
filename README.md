@@ -50,7 +50,7 @@ README.md                 # Documentation for the frontend project (located outs
 1. Clone the repository:
    ```bash
    git clone https://github.com/Farhan00000000/diabetes-prediction-app.git
-   cd diabetes-prediction-app
+   cd diabetes-prediction-app/frontend
 
    ```
 2. Create and activate a virtual environment:
